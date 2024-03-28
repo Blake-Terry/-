@@ -1,9 +1,9 @@
-hello, if you are reading this then here is the code for the website.
-its quit bad and theres a look of pointless code but it works.
-text after two slashes (//) on a line means all text after that is just extra info and not code until the next line.
-here it is!:
-
-
+//hello, if you are reading this then here is the code for the website.
+//its quit bad and theres a look of pointless code but it works.
+//text after two slashes (//) on a line means all text after that is just extra info and not code until the next line.
+//here it is!:
+//
+//
 <!DOCTYPE html>
 <html lang="en">
 <head>
